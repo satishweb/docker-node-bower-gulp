@@ -3,7 +3,7 @@
 FROM ubuntu:24.04
 LABEL maintainer="Satish Gaikwad <satish@satishweb.com>"
 
-ARG NODE_MAJOR=22
+ARG NODE_MAJOR=26
 ARG BOWER_VERSION=1.8.14
 ARG GULP_VERSION=5.0.1
 
