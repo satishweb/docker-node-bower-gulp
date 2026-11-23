@@ -1,6 +1,6 @@
 # Author: Satish Gaikwad <satish@satishweb.com>
 # Node with bower and gulp, for the work on the front end.
-FROM ubuntu:24.04
+FROM ubuntu:26.04
 LABEL maintainer="Satish Gaikwad <satish@satishweb.com>"
 
 ARG NODE_MAJOR=26
